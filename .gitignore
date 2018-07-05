@@ -1,0 +1,14 @@
+*.log
+.vscode
+.idea
+.project
+.bash_history
+.gitconfig
+.DS_Store
+package-lock.json
+*.sublime-project
+*.sublime-workspace
+
+node_modules
+dist
+logs
